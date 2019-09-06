@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="clean_india" size="1.000000 0.389328" />
+    <ImageTarget name="2000" size="1.000000 0.402014" />
+    <ImageTarget name="500" size="1.000000 0.444730" />
+    <ImageTarget name="200" size="1.000000 0.451163" />
+    <ImageTarget name="100" size="1.000000 0.459588" />
+    <ImageTarget name="50" size="1.000000 0.490085" />
+    <ImageTarget name="10" size="1.000000 0.516105" />
+  </Tracking>
+</QCARConfig>
