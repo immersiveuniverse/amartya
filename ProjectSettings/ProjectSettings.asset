@@ -244,8 +244,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 7
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: E:/UnityProjects/Projects/Amartya/amartya_latest.keystore
-  AndroidKeyaliasName: amartya project
+  AndroidKeystoreName: E:/UnityProjects/Projects/Amartya/amartya/user2020.keystore
+  AndroidKeyaliasName: amartya
   AndroidBuildApkPerCpuArchitecture: 1
   AndroidTVCompatibility: 0
   AndroidIsGame: 0
